@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5732088C253C53E900148C04 /* music.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 5732088B253C53E900148C04 /* music.mp4 */; };
 		576055F1253AF1CB0057C987 /* hw2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576055F0253AF1CB0057C987 /* hw2App.swift */; };
 		576055F3253AF1CB0057C987 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 576055F2253AF1CB0057C987 /* ContentView.swift */; };
 		576055F5253AF1CD0057C987 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 576055F4253AF1CD0057C987 /* Assets.xcassets */; };
@@ -33,6 +34,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		5732088B253C53E900148C04 /* music.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = music.mp4; sourceTree = "<group>"; };
 		576055ED253AF1CB0057C987 /* hw2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = hw2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		576055F0253AF1CB0057C987 /* hw2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = hw2App.swift; sourceTree = "<group>"; };
 		576055F2253AF1CB0057C987 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -99,6 +101,7 @@
 				576055F2253AF1CB0057C987 /* ContentView.swift */,
 				576055F4253AF1CD0057C987 /* Assets.xcassets */,
 				576055F9253AF1CD0057C987 /* Info.plist */,
+				5732088B253C53E900148C04 /* music.mp4 */,
 				576055F6253AF1CD0057C987 /* Preview Content */,
 			);
 			path = hw2;
@@ -235,6 +238,7 @@
 			files = (
 				576055F8253AF1CD0057C987 /* Preview Assets.xcassets in Resources */,
 				576055F5253AF1CD0057C987 /* Assets.xcassets in Resources */,
+				5732088C253C53E900148C04 /* music.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,7 +419,7 @@
 		57605613253AF1CD0057C987 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-3";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"hw2/Preview Content\"";
@@ -436,7 +440,7 @@
 		57605614253AF1CD0057C987 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = "AppIcon-3";
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"hw2/Preview Content\"";
